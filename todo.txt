@@ -2,10 +2,10 @@
 2.Implement multiplication method./
 3.Implement mid-square method./
 4.Implement folding method./
-5.Implement linear probing.
-6.Implement quadratic probing.
-7.Implement double hashing.
-8.Implement rehashing.
+5.Implement linear probing./
+6.Implement quadratic probing./
+7.Implement double hashing./
+8.Implement rehashing./
 9.Implement collision resolution by chaining.
 10.Implement priority queue using min-heap.
 11.Implement priority queue using max-heap.
