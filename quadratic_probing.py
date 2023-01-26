@@ -1,5 +1,4 @@
 #Quadratic Probing
-array = [-1]*10
 notfull = 0
 def hash(k,m):
     global notfull
@@ -17,6 +16,7 @@ def hash(k,m):
     return 0
 
 m = int(input("Enter array size:"))
+array = [-1]*m
 while notfull != 1:
     k = int(input("Enter key value:"))
     hash(k,m)
