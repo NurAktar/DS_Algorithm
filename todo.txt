@@ -6,15 +6,15 @@
 6.Implement quadratic probing./
 7.Implement double hashing./
 8.Implement rehashing./
-9.Implement collision resolution by chaining.
-10.Implement priority queue using min-heap.
+9.Implement collision resolution by chaining./
+10.Implement priority queue using min-heap./
 11.Implement priority queue using max-heap.
-12.Find the order of binomial trees present in a binomial heap with  nodes.
-13.Implement B tree of order .
-14.Implement B+ tree of order .
-15.Implement digital search tree.
+12.Find the order of binomial trees present in a binomial heap with nodes./
+13.Implement B tree of order.
+14.Implement B+ tree of order.
+15.Implement digital search tree./
 16.Implement binary trie.
 17.Implement compressed binary trie.
-18.Implement 1-bit tree
+18.Implement 1-bit tree.
 19.Implement Suffix tree
 20.Implement Prefix tree.

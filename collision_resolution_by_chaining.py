@@ -23,4 +23,6 @@ for x in range(n):
     hash(m,k)
 for x in range(9):
     if(table[x] != -1):
-        print("Array="+str(x)+" data="+str(table[x].data) + ",")
+        print("Index="+str(x)+" data="+str(table[x].data) + ",")
+        if(table[x].next != None):
+            print("Index.Next"+" data="+str(table[x].next.data) + ",")
