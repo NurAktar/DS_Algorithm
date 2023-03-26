@@ -21,6 +21,6 @@ n = int(input("How many data you want to enter?:"))
 for x in range(n):
     k = int(input("Enter Key:"))
     hash(m,k)
-print(table[0].data)
-print(table[0].next.data)
-print(table[0].next.next.data)
+for x in range(9):
+    if(table[x] != -1):
+        print("Array="+str(x)+" data="+str(table[x].data) + ",")
